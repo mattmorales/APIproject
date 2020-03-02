@@ -1,4 +1,4 @@
-# API Workshop - Session 7 
+# API Workshop
 
 In this workshop the API will be modulerized into a basic file structure. 
 
